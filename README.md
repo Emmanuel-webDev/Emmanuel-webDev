@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Emmanuel Onuorah
-- 👀 I’m interested in JavaScript, NodejS, ExpressJS and MongoDB
-- 🌱 I’m currently learning Backend development
+- 👋 Hi, I’m Chinonso Onuorah
+- 👀 I’m interested in JavaScript, NodejS, ExpressJS and MongoDB also Solidity for smart contracts development
+- 🌱 I’m currently practicing Backend & Smart conracts development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
-https://twitter.com/@Onuorah17200513
+- 📫 How to reach me
+- ceothedev18@gmail.com
+- https://x.com/Ceo_TheWebDev
 
 [![@emmanuelonuorah17's Holopin board](https://holopin.io/api/user/board?user=emmanuelonuorah17)](https://holopin.io/@emmanuelonuorah17)
 <!---
